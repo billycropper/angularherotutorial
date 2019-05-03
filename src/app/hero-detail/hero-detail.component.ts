@@ -37,3 +37,33 @@ export class HeroDetailComponent implements OnInit {
   }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//const id = +this.route.snapshot.paramMap.get('id');
